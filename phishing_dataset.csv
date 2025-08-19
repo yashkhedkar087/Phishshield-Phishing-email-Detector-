@@ -1,0 +1,7 @@
+EmailText,Label
+"Dear user, your account is compromised. Click here to verify immediately",phishing
+"Hello team, please find attached the weekly report for your review.",legit
+"Important: Your mailbox will be deactivated. Act now!",phishing
+"Thanks for joining the meeting today. Let’s connect again next week.",legit
+"Your PayPal account has been limited. Login to restore access.",phishing
+"Project status is on track. Let me know if you have any questions.",legit
